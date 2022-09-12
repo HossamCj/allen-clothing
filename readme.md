@@ -1,1 +1,1 @@
-# This project includes (w/ Redux, Hooks, GraphQL) practice exercises
+# This React.js project includes (w/ Redux, Hooks, GraphQL) practice exercises
