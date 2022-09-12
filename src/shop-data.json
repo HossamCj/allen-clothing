@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Gray Hat Tree sign",
+    "imageUrl": "https://images.unsplash.com/photo-1534215754734-18e55d13e346?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=404&q=80",
+    "price": 25
+  },
+  {
+    "id": 2,
+    "name": "Ice Hats",
+    "imageUrl": "https://images.unsplash.com/photo-1576871337632-b9aef4c17ab9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "price": 18
+  },
+  {
+    "id": 3,
+    "name": "Gray Cap",
+    "imageUrl": "https://images.unsplash.com/photo-1575428652377-a2d80e2277fc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "price": 35
+  },
+  {
+    "id": 4,
+    "name": "White Cap",
+    "imageUrl": "https://images.unsplash.com/photo-1622445275576-721325763afe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "price": 25
+  },
+  {
+    "id": 5,
+    "name": "Black Ice Hat",
+    "imageUrl": "https://images.unsplash.com/photo-1618354691792-d1d42acfd860?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=415&q=80",
+    "price": 18
+  },
+  {
+    "id": 6,
+    "name": "Gray RVCA",
+    "imageUrl": "https://cdn.pixabay.com/photo/2016/05/17/22/16/baby-1399332_960_720.jpg",
+    "price": 14
+  },
+  {
+    "id": 7,
+    "name": "Gray Cap",
+    "imageUrl": "https://images.unsplash.com/photo-1534215754734-18e55d13e346?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=404&q=80png",
+    "price": 18
+  },
+  {
+    "id": 8,
+    "name": "GrayScale",
+    "imageUrl": "https://images.unsplash.com/photo-1525428020182-b3da25c7ae7d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80",
+    "price": 14
+  },
+  {
+    "id": 9,
+    "name": "Blue Snapback",
+    "imageUrl": "https://images.unsplash.com/photo-1521369909029-2afed882baee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "price": 16
+  }
+]

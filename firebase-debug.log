@@ -1,0 +1,21 @@
+[debug] [2022-08-24T08:30:27.701Z] ----------------------------------------------------------------------
+[debug] [2022-08-24T08:30:27.709Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Abo Noah\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-08-24T08:30:27.711Z] CLI Version:   11.8.0
+[debug] [2022-08-24T08:30:27.712Z] Platform:      win32
+[debug] [2022-08-24T08:30:27.712Z] Node Version:  v16.16.0
+[debug] [2022-08-24T08:30:27.714Z] Time:          Wed Aug 24 2022 10:30:27 GMT+0200 (Eastern European Standard Time)
+[debug] [2022-08-24T08:30:27.714Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-08-24T08:30:27.731Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-08-24T08:30:27.732Z] > authorizing via signed-in user (hossamcj@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Abo Noah\OneDrive\Desktop\Kalbonyan-Elmarsos-2\02-Udemy\3-Reactjs-ZTM\Projects\CRWN-Clothing-Store
+
